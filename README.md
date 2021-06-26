@@ -26,9 +26,7 @@
       <a href="https://www.npmjs.com/">
         <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white">
       </a>
-      
-
-    
+     </div>
   </div>
 </div>
 <br>
