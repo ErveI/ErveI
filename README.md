@@ -51,6 +51,4 @@
     <td>Aktif</td>
     <td>Kolay geçilebilir ve kullanılabilir. Json tabanlı, kaliteli veri tabanı modülü.</td>
   </tr>
-  <tr>
-  </tr>
 </table>
