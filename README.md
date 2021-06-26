@@ -1,7 +1,7 @@
 <h1>👋 Github sayfama hoş geldin.</h1>
 <p>Adım Derin, 17 yaşındayım. Öğrenciyim ve hobi olarak bilişimle ilgilenmekteyim.</p>
 <div align="flex">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ErveI&show_icons=true&theme=synthwave&hide_border=true&include_all_commits=true">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ErveI&show_icons=true&theme=dark&hide_border=true&include_all_commits=true">
   <div>
     <h2>❤️</h2>
     <div align="flex">
@@ -36,9 +36,9 @@
 
 <table align="center">
   <tr>
-    <td>Proje Adları:</td>
-    <td>Durumu:</td>
-    <td>Açıklama:</td>
+    <td>Proje</td>
+    <td>Durumu</td>
+    <td>Açıklama</td>
   </tr>
   <tr>
     <td><a href="https://electra-bot.com/">Electra Discord Bot</a></td>
