@@ -6,7 +6,7 @@
     <h2>❤️</h2>
     <div align="flex">
       <a href="https://www.mozilla.org/en-US/firefox/new/">
-        <img src="https://img.shields.io/badge/-Firefox Browser-FF7139?style=flat-square&logo=firefox-browser&logoColor=white"> 
+        <img src="https://img.shields.io/badge/-Firefox-FF7139?style=flat-square&logo=firefox-browser&logoColor=white"> 
       </a>
       <a href="https://discord.com/">
         <img src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white"> 
@@ -21,9 +21,12 @@
         <img src="https://img.shields.io/badge/-Javascript-edb200?style=flat-square&logo=javascript&logoColor=white"> 
       </a>
       <a href="https://nodejs.org/">
-        <img src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node-dot-js&logoColor=white">
+        <img src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white">
       </a>
-
+      <a href="https://www.npmjs.com/">
+        <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white">
+      </a>
+      
 
     
   </div>
