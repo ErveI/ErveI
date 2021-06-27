@@ -1,7 +1,9 @@
 <h1>👋 Github sayfama hoş geldin.</h1>
 <p>Adım Derin, 17 yaşındayım. Öğrenciyim ve hobi olarak bilişimle ilgilenmekteyim.</p>
 <div align="flex">
+  <a href="https://github.com/ErveI">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=ErveI&show_icons=true&theme=dark&hide_border=true&include_all_commits=true">
+    </a>
   <div>
     <h2>❤️ Kullandıklarım</h2>
     <div align="flex">
