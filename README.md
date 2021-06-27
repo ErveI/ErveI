@@ -3,7 +3,7 @@
 <div align="flex">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=ErveI&show_icons=true&theme=dark&hide_border=true&include_all_commits=true">
   <div>
-    <h2>❤️</h2>
+    <h2>❤️ Kullandıklarım</h2>
     <div align="flex">
       <a href="https://www.mozilla.org/en-US/firefox/new/">
         <img src="https://img.shields.io/badge/-Firefox-FF7139?style=flat-square&logo=firefox-browser&logoColor=white"> 
