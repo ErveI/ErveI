@@ -1,5 +1,4 @@
 <h1>👋 Github sayfama hoş geldin.</h1>
-<p>Adım Derin, 17 yaşındayım. Öğrenciyim ve hobi olarak bilişimle ilgilenmekteyim.</p>
 <div align="flex">
   <a href="https://github.com/ErveI">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=ErveI&show_icons=true&theme=dark&hide_border=true&include_all_commits=true">
@@ -25,7 +24,7 @@
       <a href="https://nodejs.org/">
         <img src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white">
       </a>
-      <a href="https://www.npmjs.com/">
+      <a href="https://www.npmjs.com/~ervel">
         <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white">
       </a>
      </div>
