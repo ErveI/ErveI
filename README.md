@@ -9,7 +9,7 @@
 <div align="flex">
   <a href="https://github.com/ErveI">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=ErveI&show_icons=true&theme=dark&hide_border=true&include_all_commits=true"></a>
-  <div>
+  </div>
     
 
  <h2>Accounts</h2>
@@ -19,7 +19,7 @@
    <a href="https://github.com/ErveI" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
    <a href="https://open.spotify.com/user/q3g6qbtferll26lky9bptfwfn?si=35881eab86bd4b2a" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
        <a href="https://twitter.com/ervelll" target"blank_"><img src="https://img.shields.io/badge/Twitter%20-111111.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
-<a href="https://discord.gg/d3wkeaR" target"blank_"><img src="https://img.shields.io/badge/server%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"</a>
+<a href="https://discord.gg/d3wkeaR" target"blank_"><img src="https://img.shields.io/badge/server%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
 </div>
     
 <h2>Projects</h2>
