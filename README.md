@@ -12,14 +12,14 @@
     
 
  <h2>Accounts</h2>
-<p align="center">
+<div align="center">
    <a href="https://discord.com/users/503285107331825664" target"blank_"><img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://www.youtube.com/c/Ervel" target"blank_"><img src="https://img.shields.io/badge/Youtube%20-111111.svg?&style=for-the-badge&logo=youtube&logoColor=white"</a>
    <a href="https://github.com/ErveI" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
    <a href="https://open.spotify.com/user/q3g6qbtferll26lky9bptfwfn?si=35881eab86bd4b2a" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
        <a href="https://twitter.com/ervelll" target"blank_"><img src="https://img.shields.io/badge/Twitter%20-111111.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href="https://discord.gg/d3wkeaR" target"blank_"><img src="https://img.shields.io/badge/server%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"</a>
-</p>
+</div>
     
 <h2>Projects</h2>
 <table align="center">
