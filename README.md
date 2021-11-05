@@ -3,12 +3,13 @@
 
 <div align="center">
     <a href="https://discord.com/users/503285107331825664">
-  <img align="left" src="https://lanyard-profile-readme.vercel.app/api/503285107331825664"></a>
+  <img src="https://lanyard-profile-readme.vercel.app/api/503285107331825664"></a>
 </div>
-
-<div align="flex">
+ 
+ 
+<div align="center">
   <a href="https://github.com/ErveI">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=ErveI&show_icons=true&theme=dark&hide_border=true&include_all_commits=true"></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=ErveI&show_icons=true&theme=dark&hide_border=true&include_all_commits=true"></a>
   </div>
  
 <h2>Projects</h2>
