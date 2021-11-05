@@ -40,9 +40,10 @@
     <td>It can be easily passed and available. JSON-based, high-quality database module.</td>
   </tr>
 </table>
-    
-   <details>
-    <summary>More</summary>
+
+
+<details>
+<summary>More</summary>
 <h2>Languages</h2>
 <div align="center">
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> 
@@ -63,6 +64,6 @@
 <h2>Tools</h2>
 <div align="center">
 <img src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white">
-<img src="https://img.shields.io/static/v1?style=for-the-badge&message=pnpm&color=F69220&logo=pnpm&logoColor=FFF&label=" />
+<img src="https://img.shields.io/static/v1?style=for-the-badge&message=pnpm&color=F69220&logo=pnpm&logoColor=FFF&label=">
 </div>
      </details>
