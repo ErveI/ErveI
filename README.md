@@ -2,7 +2,8 @@
 
 
 <div align="center">
-    <a href="https://discord.com/users/503285107331825664" title="Discord Hesabım"><img align="left" src="https://lanyard-profile-readme.vercel.app/api/503285107331825664"></a>
+    <a href="https://discord.com/users/503285107331825664">
+  <img align="left" src="https://lanyard-profile-readme.vercel.app/api/503285107331825664"></a>
 </div>
 
 <div align="center">
