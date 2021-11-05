@@ -11,7 +11,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=ErveI&show_icons=true&theme=dark&hide_border=true&include_all_commits=true"></a>
   </div>
  
-<h2>Projects</h2>
+
 <table align="center">
   <tr>
     <td>Project</td>
