@@ -1,4 +1,4 @@
-<h1>👋 Github sayfama hoş geldin.</h1>
+### 👋 Hi, I'm Derin!
 
 
 <div align="center">
@@ -12,26 +12,23 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ErveI&show_icons=true&theme=dark&hide_border=true&include_all_commits=true"></a>
   </div>
  
-<h2>Projects</h2>
+### 💻 Projects
 <table align="center">
   <tr>
     <td>Project</td>
-    <td>Status</td>
     <td>Description</td>
   </tr>
   <tr>
     <td><a href="https://electra-bot.com/">Electra Discord Bot</a></td>
-    <td>Active</td>
     <td>Convenient, Discord Bot.</td>
   </tr>
   <tr>
     <td><a href="https://npmjs.com/ervel.db">Ervel.db</a></td>
-    <td>Active</td>
     <td>It can be easily passed and available. JSON-based, high-quality database module.</td>
   </tr>
 </table>
 
- <h2>Accounts</h2>
+### 👤 Accounts
 <div align="center">
    <a href="https://discord.com/users/503285107331825664" target"blank_"><img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://www.youtube.com/c/Ervel" target"blank_"><img src="https://img.shields.io/badge/Youtube%20-111111.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
@@ -42,8 +39,9 @@
 </div>
 
 <details>
-<summary>More</summary>
-<h2>Languages</h2>
+<summary>More Info</summary>
+    
+### 💎 Experience
 <div align="center">
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> 
 <img src="https://img.shields.io/badge/python%20-%2343853D.svg?&style=for-the-badge&logo=python&logoColor=white">
@@ -52,7 +50,7 @@
   <img src="https://img.shields.io/badge/-C sharp-43853d?style=for-the-badge&logo=C sharp&logoColor=white">
 </div>
   
-<h2>Apps</h2>
+### 📦 Apps
 <div align="center">
 <img src="https://img.shields.io/badge/-Firefox-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white"> 
 <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"> 
@@ -60,9 +58,9 @@
 <img src="https://img.shields.io/badge/-Authy-EC1C24?style=for-the-badge&logo=authy&logoColor=white">
 </div>
 
-<h2>Tools</h2>
+### ⚙️ Tools
 <div align="center">
 <img src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white">
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=pnpm&color=F69220&logo=pnpm&logoColor=FFF&label=">
 </div>
-     </details>
+</details>
