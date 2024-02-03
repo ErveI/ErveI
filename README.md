@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BLUE&width=435&lines=Hi%2C+I'm+Ervel;Back-end+Developer;Building+Projects)](https://git.io/typing-svg)
 
 ## About Me
-Hi, I'm Ervel and I'm 19 years old. Coding is a hobby I'm passionate about and I've been doing it since 2019, starting with the Electra Discord Bot. While working on the bot, I taught myself JavaScript and honed my skills in this language. I also had the opportunity to learn some Python and C# during my time in school.
+Hi, I'm Ervel and I'm 20 years old. Coding is a hobby I'm passionate about and I've been doing it since 2019, starting with the Electra Discord Bot. While working on the bot, I taught myself JavaScript and honed my skills in this language. I also had the opportunity to learn some Python and C# during my time in school.
 
 <div align="center">
     <a href="https://discord.com/users/503285107331825664">
