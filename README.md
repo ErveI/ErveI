@@ -1,7 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BLUE&width=435&lines=Hi%2C+I'm+Ervel;Back-end+Developer;Building+Projects)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BLUE&width=435&lines=Hi%2C+I'm+Ervel;Back-end+Developer;Building+Projects">
 
 ## About Me
-Hi, I'm Ervel and I'm 20 years old. My one of the hobby is coding and I'm passionate about it. I have start coding with Electra Discord Bot since 2019. While I'm working on the bot, I taught myself JavaScript and honed my skills in this language. I also had opportunity to learn some Python and C# during my time in school.
+Hi, I'm Ervel and I'm 20 years old. One of my hobbies is coding, and I'm passionate about it. I started coding with the Electra Discord Bot in 2019. While working on the bot, I taught myself JavaScript and honed my skills in this language. I also had the opportunity to learn some Python and C# during my time in school.
 
 <div align="center">
     <a href="https://discord.com/users/503285107331825664">
