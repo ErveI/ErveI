@@ -13,8 +13,8 @@
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-top: 20px;">
     <div style="flex: 1; max-width: 45%;">,
-            <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=erveI&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=default#gh-light-mode-only" />
-  <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erveI&layout=donut&theme=default#gh-light-mode-only" />     
+            <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=erveI&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=default#gh-light-mode-only" />
+  <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erveI&layout=donut&theme=default#gh-light-mode-only" />     
     </div>
 
   <div style="flex: 1; max-width: 45%; text-align: left; margin-left: 20px;">
