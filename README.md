@@ -1,4 +1,8 @@
-<h1 align="center">Hi, I'm Ervel! 👋 </h1>
+
+<p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Lilita+One&size=35&pause=1000&color=63B8FF&center=true&vCenter=true&repeat=false&width=435&lines=Hi+I'm+Ervel+%F0%9F%91%8B" />
+ </p>
+
 <p align="center">
     <img src="https://i.imgur.com/S99U9wK.jpeg" />
  </p>
@@ -43,10 +47,10 @@
 </p>
 
 ### ✨ Fun Facts
-- I love Go-kart and Badminton.  
-- I'm not overly optimistic or pessimistic — I'm a realist.  
-- I pay attention to detail.  
-- I prefer to use open-source tools/resources whenever I can.
+- I love **Go-kart** and **Badminton**.  
+- I'm not overly optimistic or pessimistic — I'm a **realist**.  
+- I pay attention to **detail**.  
+- I prefer to use **open-source tools/resources** whenever I can.
 
 ### 🧑‍💻 About Me
 
