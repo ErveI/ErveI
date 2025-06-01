@@ -1,6 +1,6 @@
 
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Lilita+One&size=35&pause=1000&color=63B8FF&center=true&vCenter=true&repeat=false&width=435&lines=Hi+I'm+Ervel+%F0%9F%91%8B" />
+    <img src="https://readme-typing-svg.demolab.com?font=Lilita+One&size=35&pause=1000&color=63B8FF&center=true&vCenter=true&repeat=false&width=435&lines=Hi%2C+I'm+Ervel+%F0%9F%91%8B" />
  </p>
 
 <p align="center">
