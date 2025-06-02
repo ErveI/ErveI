@@ -19,22 +19,22 @@
     
 ### 👨‍💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,js,py,cs,discordjs" alt="Languages" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,js,py,cs,discordjs&theme=dark" alt="Languages" />
 </p>
 
 ### :hammer_and_wrench: Services
 <p>
-  <img src="https://skillicons.dev/icons?i=replit,aws,vercel,npm" alt="Services" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=replit,aws,vercel,npm,proton,canva&theme=dark" alt="Services" />
 </p>
 
 ### 🖥️ Operating Systems
 <p>
-  <img src="https://skillicons.dev/icons?i=apple,ubuntu,windows" alt="Operating Systems" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=apple,ubuntu,windows,android&theme=dark" alt="Operating Systems" />
 </p>
 
 ### 📍 Applications
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,discord,linkedin,instagram,twitter" alt="Applications" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,discord,linkedin,instagram,twitter,brave,obs&theme=dark" alt="Applications" />
 </p>
 
 </td>
