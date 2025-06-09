@@ -14,7 +14,7 @@
    <img src="https://visitor-badge.laobi.icu/badge?page_id=erveI_visitor_badge_simple&left_color=royalblue&right_color=black"  />
  </p>
       <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=erveI" />
+   <img src="https://github-readme-stats.vercel.app/api?username=erveI&theme=dark" />
  </p>
     
 ### 👨‍💻 Languages
