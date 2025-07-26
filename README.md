@@ -19,22 +19,17 @@
     
 ### 👨‍💻 Languages
 <p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,js,py,cs,discordjs&theme=dark" alt="Languages" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=js,py,cs&theme=dark" alt="Languages" />
+</p>
+
+### 👨‍💻 Technologies
+<p>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,discordjs&theme=dark" alt="Technologies" />
 </p>
 
 ### :hammer_and_wrench: Services
 <p>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=replit,aws,vercel,npm,proton,canva&theme=dark" alt="Services" />
-</p>
-
-### 🖥️ Operating Systems
-<p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=apple,ubuntu,windows,android&theme=dark" alt="Operating Systems" />
-</p>
-
-### 📍 Applications
-<p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,discord,linkedin,instagram,twitter,brave,obs&theme=dark" alt="Applications" />
 </p>
 
 </td>
