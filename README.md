@@ -49,7 +49,7 @@
 
 ### 🧑‍💻 About Me
 
-Hi, I’m **Ervel (he/him)**, a **21-year-old developer as a hobby** passionate about building **useful** and **innovative** projects.
+Hi, I’m **Ervel (he/him)**, a **backend developer as a hobby** passionate about building **useful** and **innovative** projects.
 I started my coding journey in **2019** with the **Electra Discord Bot**, where I taught myself **JavaScript** and continued to sharpen my skills through hands-on experience. Along the way, I also learned a bit **Python** and **C#** during high school education.
 
 I have a strong desire to develop projects that benefit a large number of people, and I strive to create **unique features** that set my work apart. I believe that by offering something **new** and **innovative**, I can make a positive impact and leave a **lasting impression** on people.
